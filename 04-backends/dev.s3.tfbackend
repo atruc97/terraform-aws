@@ -1,0 +1,4 @@
+# For illustration purposes, not actively used.
+bucket = "terraform-backend-011"
+key    = "backends/dev/state.tfstate"
+region = "us-east-1"
